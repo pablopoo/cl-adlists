@@ -1,2 +1,2 @@
 # cl-adlists
-adlist for Chile users.
+PiHole adlist for Chile users. Currently based on CSIRT IOC domain list.
